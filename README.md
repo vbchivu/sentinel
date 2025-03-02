@@ -3,7 +3,7 @@
 ## Project info
 Proactively predict and alert stakeholders about potential network downtime by analyzing historical uptime data, environmental factors, and ongoing network metrics. This will allow communities and network operators to mitigate disruptions, protect critical services, and plan effectively around low connectivity periods.
 
-**URL**: <>
+**URL**: https://sentinel-iota.vercel.app/
 
 **Requirements**
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
@@ -12,10 +12,10 @@ Then follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <>
+git clone https://github.com/vbchivu/sentinel.git
 
 # Step 2: Navigate to the project directory.
-cd <>
+cd sentinel
 
 # Step 3: Install the necessary dependencies.
 npm i
